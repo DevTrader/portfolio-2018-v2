@@ -4,8 +4,8 @@
     }
 
     .header {
-    	-webkit-clip-path: polygon(100vw 0, 100vw 75vh, 50% 85vh, 0 75vh, 0 0);
-    	clip-path: polygon(100vw 0, 100vw 75vh, 50% 85vh, 0 75vh, 0 0);
+    	-webkit-clip-path: polygon(100vw 0, 100vw 75vh, 50% 90%, 0 75vh, 0 0);
+    	clip-path: polygon(100vw 0, 100vw 75vh, 50% 90%, 0 75vh, 0 0);
     }
 
     .logo-box {
