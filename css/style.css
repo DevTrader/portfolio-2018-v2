@@ -371,6 +371,22 @@ a:hover {
 	width: 550px;
 }
 
+.rocket-finder img, .ravens img, .cryptofolio img {
+	transition: all 0.8s;
+}
+
+.rocket-finder img:hover{
+	transform: scale(1.6) translate(30%, 0);
+}
+
+.ravens img:hover {
+	transform: scale(1.6);
+}
+
+.cryptofolio img:hover{
+	transform: scale(1.6) translate(-30%, 0);
+}
+
 .work-display-section p {
 	padding: 20px;
 }
