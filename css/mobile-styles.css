@@ -97,7 +97,7 @@
     }
 
     .rocket-finder img:hover{
-    transform: scale(1.2) translate(0, 0);
+        transform: scale(1.2) translate(0, 0);
     }
 
     .ravens img:hover {
@@ -106,6 +106,10 @@
 
     .cryptofolio img:hover{
         transform: scale(1.2) translate(0, 0);
+    }
+
+    .navigation-item a {
+        font-size: 25px;
     }
 
 }
