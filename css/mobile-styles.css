@@ -109,7 +109,14 @@
     }
 
     .navigation-item a {
+        font-size: 18px;
+    }
+
+    .navigation-item a:hover {
+        background: none;
         font-size: 25px;
+        padding: 0;
+        color: white;
     }
 
 }
