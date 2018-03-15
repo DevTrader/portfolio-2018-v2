@@ -23,6 +23,7 @@
     }
 
     .heading-primary-main {
+        padding-top: 20px;
     	font-size: 25px;
     	width: 100vw;
     	letter-spacing: 7px;
@@ -31,7 +32,7 @@
     }
 
     .btn-white {
-    	padding: 25px !important;
+    	padding: 15px !important;
     }
 
     .heading-primary-sub {
