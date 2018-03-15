@@ -75,4 +75,18 @@
     	height: 350px;
     }
 
+    /*Removing animation*/
+    .btn::after {
+        display: none;
+
+    }
+
+    .btn-white::after {
+        display: none;
+    }
+
+    .btn:hover::after {
+        display: none;
+    }
+
 }
