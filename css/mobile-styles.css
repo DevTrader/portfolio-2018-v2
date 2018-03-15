@@ -97,15 +97,15 @@
     }
 
     .rocket-finder img:hover{
-    transform: scale(1.2);
+    transform: scale(1.2) translate(0, 0);
     }
 
     .ravens img:hover {
-        transform: scale(1.2);
+        transform: scale(1.2) translate(0, 0);
     }
 
     .cryptofolio img:hover{
-        transform: scale(1.2);
+        transform: scale(1.2) translate(0, 0);
     }
 
 }
