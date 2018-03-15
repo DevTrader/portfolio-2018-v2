@@ -1,0 +1,75 @@
+@media only screen and (max-width: 700px) {
+    body {
+        padding: 0;
+    }
+
+    .logo-box {
+    	top: 20px;
+    	left: 20px;
+    }
+
+    .nav-button {
+    	top: 20px;
+    	right: 20px;
+    }
+
+    .text-box , .heading-primary {
+    	width: 100vw;
+    }
+
+    .heading-primary-main {
+    	font-size: 25px;
+    	width: 100vw;
+    	letter-spacing: 7px;
+    	text-indent: 7px;
+
+    }
+
+    .btn-white {
+    	padding: 25px !important;
+    }
+
+    .heading-primary-sub {
+    	font-size: 14px;
+    	letter-spacing: 5px;
+    	text-indent: 5px;
+    	padding-top: 30px;
+    }
+
+    #profile-pic {
+    	margin: 0;
+    	width: 200px;
+    }
+
+    .about-content {
+    	float: none;
+    	text-align: center;
+    }
+
+    .section-content {
+    	width: 80vw;
+    }
+
+    .stack-icons img {
+    	padding: 100px 10px;
+    	width: 70px;
+    }
+
+    #my-work {
+    	-webkit-clip-path: polygon(50% 150px, 100% 0, 100% 100%, 0 100%, 0 0);
+    	clip-path: polygon(50% 150px, 100% 0, 100% 100%, 0 100%, 0 0);
+    }
+
+    #my-work .work-display {
+    	display: block;
+    }
+
+    .work-display-section img {
+    	width: 75vw;
+    }
+
+    .description-work-display {
+    	height: 350px;
+    }
+
+}
