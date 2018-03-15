@@ -109,12 +109,12 @@
     }
 
     .navigation-item a {
-        font-size: 22px;
+        font-size: 25px;
     }
 
     .navigation-item a:hover {
         background: none;
-        font-size: 25px;
+        font-size: 28px;
         padding: 0;
         color: white;
     }
