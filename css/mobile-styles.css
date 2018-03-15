@@ -96,4 +96,16 @@
         display: none;
     }
 
+    .rocket-finder img:hover{
+    transform: scale(1.2);
+    }
+
+    .ravens img:hover {
+        transform: scale(1.2);
+    }
+
+    .cryptofolio img:hover{
+        transform: scale(1.2);
+    }
+
 }
