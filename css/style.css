@@ -101,6 +101,10 @@ a:hover {
 	color: white;
 }
 
+p {
+	padding-top: 5px;
+}
+
 /*HEADER STYLE START*/
 
 .header {
