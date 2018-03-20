@@ -383,15 +383,15 @@ a:hover {
 }
 
 .rocket-finder img:hover {
-	transform: scale(2) translate(30%, 0);
+	transform: scale(1.6) translate(30%, 0);
 }
 
 .ravens img:hover {
-	transform: scale(2);
+	transform: scale(1.6);
 }
 
 .cryptofolio img:hover {
-	transform: scale(2) translate(-30%, 0);
+	transform: scale(1.6) translate(-30%, 0);
 }
 
 .work-display-section p {
@@ -405,4 +405,9 @@ a:hover {
 
 .tech-used {
 	color: #B5952B;
+}
+
+.profileLinks {
+	text-align: center;
+	font-size: 14px;
 }
