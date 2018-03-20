@@ -1,5 +1,8 @@
 function docLoad(){
-	console.log(window.innerWidth, window.innerHeight)
+
+	let currentYear = new Date().getFullYear();
+	$(".year").html(currentYear);
+
 	//Intro Fade In
 	$(".heading-primary").hide().fadeIn(2500);
 
