@@ -348,6 +348,9 @@ a:hover {
 #my-work .work-display {
 	padding: 30px;
 	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+  	justify-content: center;
 }
 
 .work-display h2 {
@@ -362,37 +365,42 @@ a:hover {
 
 .work-display-section {
 	flex: 1;
+	max-width: 28vw;
 	background:#161616; 
 	margin: 5px;
 	border-radius: 10px;
+	min-height: 100vh;
+	height: auto;
 }
 
 .work-display-section img{
-	width: 550px;
+	min-width: 400px;
+	max-width: 28vw;
 }
 
 .rocket-finder img, .ravens img, .cryptofolio img {
 	transition: all 0.8s;
 }
 
-.rocket-finder img:hover{
-	transform: scale(1.6) translate(30%, 0);
+.rocket-finder img:hover {
+	transform: scale(2) translate(30%, 0);
 }
 
 .ravens img:hover {
-	transform: scale(1.6);
+	transform: scale(2);
 }
 
-.cryptofolio img:hover{
-	transform: scale(1.6) translate(-30%, 0);
+.cryptofolio img:hover {
+	transform: scale(2) translate(-30%, 0);
 }
 
 .work-display-section p {
 	padding: 20px;
+	margin-bottom: 5px;
 }
 
 .description-work-display {
-	height: 200px;
+	height: 250px;
 }
 
 .tech-used {
