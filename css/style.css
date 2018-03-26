@@ -382,7 +382,7 @@ a:hover {
 	transition: all 0.8s;
 }
 
-.rocket-finder img:hover {
+/*.rocket-finder img:hover {
 	transform: scale(1.6) translate(30%, 0);
 }
 
@@ -392,7 +392,7 @@ a:hover {
 
 .cryptofolio img:hover {
 	transform: scale(1.6) translate(-30%, 0);
-}
+}*/
 
 .work-display-section p {
 	padding: 20px;
@@ -410,6 +410,30 @@ a:hover {
 .profileLinks {
 	text-align: center;
 	font-size: 14px;
+}
+
+#contact {
+	background: #161616; /* Old browsers */
+	background: -moz-linear-gradient(top, #161616 0%, #494949 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #161616 0%,#494949 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #161616 0%,#494949 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#161616', endColorstr='#494949',GradientType=0 );
+	height: 500px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+#contact h2 {
+	font-size: 24px;
+	font-weight: 400;
+	color:#B5952B;
+}
+
+.contact-content {
+	padding-top: 80px;
+}
+.color-white {
+	color: white;
 }
 
 footer{

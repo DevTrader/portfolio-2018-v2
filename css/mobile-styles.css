@@ -108,7 +108,7 @@
         display: none;
     }
 
-    .rocket-finder img:hover{
+/*    .rocket-finder img:hover{
         transform: scale(1.2) translate(0, 0);
     }
 
@@ -118,7 +118,7 @@
 
     .cryptofolio img:hover{
         transform: scale(1.2) translate(0, 0);
-    }
+    }*/
 
     .navigation-item a {
         font-size: 25px;
