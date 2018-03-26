@@ -119,9 +119,12 @@
     .cryptofolio img:hover{
         transform: scale(1.2) translate(0, 0);
     }*/
+    .navigation-item {
+        padding-bottom: 45px;
+    }
 
     .navigation-item a {
-        font-size: 25px;
+        font-size: 35px;
     }
 
     .navigation-item a:hover {
@@ -129,6 +132,9 @@
         font-size: 28px;
         padding: 0;
         color: white;
+    }
+    .navigation-list {
+        top: 40%;
     }
 
 }
