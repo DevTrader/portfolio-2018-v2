@@ -373,6 +373,10 @@ a:hover {
 	height: auto;
 }
 
+.mob {
+	display:none;
+}
+
 .work-display-section img{
 	min-width: 400px;
 	max-width: 28vw;
