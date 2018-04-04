@@ -136,5 +136,9 @@
     .navigation-list {
         top: 40%;
     }
+    
+    .no-mob{
+        display:none;
+    }
 
 }
