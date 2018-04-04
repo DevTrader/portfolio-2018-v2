@@ -140,5 +140,8 @@
     .no-mob{
         display:none;
     }
+    .mob {
+	    display:block;
+    }
 
 }
